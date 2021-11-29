@@ -24,4 +24,4 @@ valid_comments= 746
 ========================================
 ```
 
-I believe I should get a 30/30, because I completed all six tasks, made the GitHub repo, which is 20, and did extra credit options 1,2,4,6, and 7a. I didn't do extra credit option 3,5,and 7b. 
+I believe I should get a 26/30, because I completed all six tasks, made the GitHub repo, which is 20, and met the requirements for extra credit options 1,2, and 4, the file for which I've uploaded in my repo. 
