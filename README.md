@@ -10,6 +10,18 @@ I really liked this thread because the original post was about COVID-19 and the 
 
 This is the output of my bot_counter.py file
 
-![bot_counter.py output](https://github.com/nikhilagarwal1111/Reddit-Bot/blob/main/bot_counter%20output.png)
+```
+(base) nikhilagarwal@Nikhils-MacBook-Pro CS040 % python3 bot_counter.py --username='hambotver4lyfe'
+Version 7.4.0 of praw is outdated. Version 7.5.0 was released Sunday November 14, 2021.
+len(comments)= 1000
+len(top_level_comments)= 174
+len(replies)= 826
+len(valid_top_level_comments)= 112
+len(not_self_replies)= 783
+len(valid_replies)= 634
+========================================
+valid_comments= 746
+========================================
+```
 
 I believe I should get a 30/30, because I completed all six tasks, made the GitHub repo, which is 20, and did extra credit options 1,2,4,6, and 7a. I didn't do extra credit option 3,5,and 7b. 
